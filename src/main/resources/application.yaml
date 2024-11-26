@@ -1,0 +1,7 @@
+spring:
+  data:
+    redis:
+      host: changeme
+      port: 18223
+      username: default
+      password: changeme
